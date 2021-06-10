@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Karolis</h1>
 <h3 align="center">Failure tolerant JavaScript Engineer</h3>
 
-- 🔭 I’m currently working on **trustpilot app integration to Shopify/Wix/Squarespace @trustpilot**
+- 🔭  I’m currently working on **trustpilot app integration to Shopify/Wix/Squarespace @trustpilot**
 
-- 🌱 I’m currently learning **docker, aws**
+- 🌱  I’m currently learning **docker, aws**
 
-- 👯 I’m looking to collaborate on **fun projects**
+- 👯  I’m looking to collaborate on **fun projects**
 
-- 💬 Ask me about **react, node, javascript**
+- 💬  Ask me about **react, node, javascript**
 
 - 📫 How to reach me **karolis.stulgys@gmail.com**
 
