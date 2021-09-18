@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **AWS**
 
-- 👨‍💻 All of my projects are available at [kastproductions.com](kastproductions.com)
-
 - 💬 Ask me about **React, JavaScript, Node**
 
 - 📫 How to reach me **karolis.stulgys@gmail.com**
