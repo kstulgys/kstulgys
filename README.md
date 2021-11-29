@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kstulgys&label=Profile%20views&color=0e75b6&style=flat" alt="kstulgys" /> </p>
 
-- 🔭 I’m currently working on **Crypto currency trading platform**
+- 🔭 I’m currently working with "Irishlife" Insurance company on their **React Design System**
 
 - 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Complex UI/Javascript/React projects**
 
-- 🤝 I’m looking for help with **AWS**
-
 - 💬 Ask me about **React, JavaScript, Node**
 
-- 📫 How to reach me **karolis.stulgys@gmail.com**
+- 📫 How to reach me **hello@kastproductions.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
