@@ -1,8 +1,12 @@
 # 💫About Me :
 🔭 I’m currently working at Irish insurance company on react components design system
+
 👯 I’m looking to collaborate on interesting and complex UI Frontend projects
+
 🌱 I’m currently learning about entrepreneurship
+
 💬 Ask me about React, Node, JavaScript
+
 📫 How to reach me: hello@kastproductions.com
 
 
