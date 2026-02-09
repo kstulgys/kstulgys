@@ -10,6 +10,7 @@ Freelance full stack engineer with a strong background in developing web and mob
 
 # Side projects
 https://immero.vercel.app/
+
 https://www.tailwindpdf.com/
 
 ---
