@@ -1,6 +1,6 @@
 # 💫About Me
 
-Freelance full stack engineer with a strong background in developing web and mobile applications using technologies such as React, Node, GraphQL, Prisma, and REST APIs. Skilled in working with clients around the world to deliver high-quality and scalable solutions that meet their needs. Experienced in agile development methodologies and comfortable working in fast-paced environments. Able to effectively communicate with team members and clients to ensure project success.
+AI and Web3 specialist with 7+ years building MVPs, proof-of-concepts, and production systems for startups and enterprises. Expert in rapid prototyping using Claude, OpenAI, LangChain, and modern Web3 technologies. Founding engineer at fintech startup (Pexx) with proven ability to architect and deliver 0-to-1 products in weeks, not months. Currently running an independent software consultancy focused on AI-powered applications, blockchain integrations, and fast-iteration MVP development for international clients. Track record of turning concepts into working prototypes ahead of schedule across fintech, property management, and enterprise platforms.
 
 📫 karolis.stulgys@gmail.com
 
