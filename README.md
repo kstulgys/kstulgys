@@ -2,7 +2,7 @@
 
 Freelance full stack engineer with a strong background in developing web and mobile applications using technologies such as React, Node, GraphQL, Prisma, and REST APIs. Skilled in working with clients around the world to deliver high-quality and scalable solutions that meet their needs. Experienced in agile development methodologies and comfortable working in fast-paced environments. Able to effectively communicate with team members and clients to ensure project success.
 
-📫 hello@kastproductions.com
+📫 karolis.stulgys@gmail.com
 
 
 ## 🌐Socials
