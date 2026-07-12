@@ -10,10 +10,11 @@ How I work: agent-driven development end to end — codebases structured for age
 
 ---
 
-## Live
+## Shipped
 
 - 🏋️ **[fabb-skill](https://github.com/kstulgys/fabb-skill)** — a coding-agent skill that checks the timetable and books my gym classes. An agent doing a real chore, end to end
 - 📄 **[twpdf](https://github.com/kstulgys/twpdf)** / [tailwindpdf.com](https://www.tailwindpdf.com) — Tailwind HTML → PDF. My CV is rendered with it
+- 📐 **[kastproductions.com](https://kastproductions.com)** ([source](https://github.com/kastproductions/kastproductions)) — the consultancy site: Next.js static export, shadcn/ui on Tailwind v4, drafting-sheet design system
 
 Also in the lab: real-money algorithmic trading experiments (Polymarket, Kalshi).
 
