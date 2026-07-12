@@ -1,17 +1,32 @@
-# 💫About Me
+# Hi, I'm Karolis 👋
 
-AI and Web3 specialist with 7+ years building MVPs, proof-of-concepts, and production systems for startups and enterprises. Expert in rapid prototyping using Claude, OpenAI, LangChain, and modern Web3 technologies. Founding engineer at fintech startup (Pexx) with proven ability to architect and deliver 0-to-1 products in weeks, not months. Currently running an independent software consultancy focused on AI-powered applications, blockchain integrations, and fast-iteration MVP development for international clients. Track record of turning concepts into working prototypes ahead of schedule across fintech, property management, and enterprise platforms.
+**AI product engineer** — I build products with agents, and agents into products. Busy automating myself out of a job.
 
-📫 karolis.stulgys@gmail.com
+Founding Engineer at [PEXX](https://pexx.com) (stablecoin payments and banking). Running an independent consultancy, [Kast Productions](https://kastproductions.com), since 2021 — AI-heavy product work for startups, agencies, and enterprises: Trustpilot, Irish Life, An Post, Volkswagen, Bidfood, RNHB, and more on [the site](https://kastproductions.com).
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kstulgys) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kstulgys) 
+How I work: agent-driven development end to end — codebases structured for agent navigation (`CONTEXT.md` / `AGENTS.md` discipline), custom skills for repeatable workflows, multi-model on Claude and GPT. The agents write the code; I make sure it's the right code.
 
-
-# Side projects
-https://immero.vercel.app/
-
-https://www.tailwindpdf.com/
+📫 [hello@kastproductions.com](mailto:hello@kastproductions.com) · 🌐 [kastproductions.com](https://kastproductions.com) · 💼 [linkedin.com/in/kstulgys](https://www.linkedin.com/in/kstulgys/)
 
 ---
-![](https://komarev.com/ghpvc/?username=kstulgys&label=Visitors+Count&color=brightgreen)
+
+## Live
+
+- 🏊 **[fabb-skill](https://github.com/kstulgys/fabb-skill)** — a coding-agent skill that checks the timetable and books my pool classes. An agent doing a real chore, end to end
+- 📄 **[twpdf](https://github.com/kstulgys/twpdf)** / [tailwindpdf.com](https://www.tailwindpdf.com) — Tailwind HTML → PDF. My CV is rendered with it
+
+## Shipping next
+
+Working repos being cleaned up for daylight:
+
+- 🛒 **barbora-agent** — browser agent that does my grocery shopping
+- 🔀 **teams-jira-pr-bot** — pull-request triage in Teams and Jira
+- 🎨 **convocms** — AI site generator: from a written spec to a themed website
+- 🕸️ **graphify** — turn any codebase into a queryable knowledge graph for agents
+- 🪨 **caveman** — token-economy skills suite: same technical content, ~75% fewer tokens
+
+Also in the lab: real-money algorithmic trading experiments (Polymarket, Kalshi).
+
+---
+
+*Client work lives on client infrastructure — what you see here is the personal slice.*
