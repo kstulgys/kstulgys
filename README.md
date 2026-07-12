@@ -12,18 +12,8 @@ How I work: agent-driven development end to end — codebases structured for age
 
 ## Live
 
-- 🏊 **[fabb-skill](https://github.com/kstulgys/fabb-skill)** — a coding-agent skill that checks the timetable and books my pool classes. An agent doing a real chore, end to end
+- 🏋️ **[fabb-skill](https://github.com/kstulgys/fabb-skill)** — a coding-agent skill that checks the timetable and books my gym classes. An agent doing a real chore, end to end
 - 📄 **[twpdf](https://github.com/kstulgys/twpdf)** / [tailwindpdf.com](https://www.tailwindpdf.com) — Tailwind HTML → PDF. My CV is rendered with it
-
-## Shipping next
-
-Working repos being cleaned up for daylight:
-
-- 🛒 **barbora-agent** — browser agent that does my grocery shopping
-- 🔀 **teams-jira-pr-bot** — pull-request triage in Teams and Jira
-- 🎨 **convocms** — AI site generator: from a written spec to a themed website
-- 🕸️ **graphify** — turn any codebase into a queryable knowledge graph for agents
-- 🪨 **caveman** — token-economy skills suite: same technical content, ~75% fewer tokens
 
 Also in the lab: real-money algorithmic trading experiments (Polymarket, Kalshi).
 
