@@ -17,7 +17,7 @@ How I work: agent-driven development end to end — codebases structured for age
 - 📐 **[kastproductions.com](https://kastproductions.com)** ([source](https://github.com/kastproductions/kastproductions)) — the consultancy site: Next.js static export, shadcn/ui on Tailwind v4, drafting-sheet design system
 - ⚡ **[baltic-power](https://github.com/kstulgys/baltic-power)** / [balticpower.app](https://balticpower.app) — live electricity prices for the Baltics
 - 🏠 **[sipit.homes](https://sipit.homes)** — design homes built from SIPs: a 3D floor-plan editor with live bill of quantities and heat-loss estimates. Closed source for now
-- 🗣️ **[immero](https://github.com/kstulgys/immero)** / [immero.vercel.app](https://immero.vercel.app) — immersive language-learning app: Next.js, Convex, AI-powered
+- 🗣️ **[immero](https://immero.vercel.app)** — voice-first language learning: real-time speaking practice with an AI tutor that adapts to how you learn, with spaced-repetition memory. Next.js, Convex, Gemini Live. Closed source for now
 
 Also in the lab: real-money algorithmic trading experiments (Polymarket, Kalshi).
 
